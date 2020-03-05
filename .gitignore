@@ -6,6 +6,7 @@
 *.backup
 *.swp
 *.swo
+.cvsignore
 
 # EPICS generated
 /bin/
@@ -34,3 +35,6 @@ documentation/*.aux
 documentation/*.log
 documentation/*.out
 documentation/*.toc
+
+#E3 Makefile
+*.Makefile
